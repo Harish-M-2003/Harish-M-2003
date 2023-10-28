@@ -1,5 +1,5 @@
 # 💫About Me :
-i'm Currently working on squig and NShades....
+A person who believes in learning something about everything and everthing about somthing.
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Example.linkedin.in) 
